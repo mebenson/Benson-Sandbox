@@ -1,5 +1,4 @@
-Benson-Sandbox
+Michael Benson's Project Sandbox
 ==============
-Michael Benson
+Current Projects
 ==============
-Java or Python projects
